@@ -36,6 +36,7 @@ The needs of contemporary agriculture, which demands high-yield, high-quality, a
 ## Demo
 
 Link to the demo is given below- https://drive.google.com/file/d/1U75V_AqzezWuDsrshL9iQ4T2kuGjaszf/view?usp=drivesdk
+https://youtu.be/fokkW2FxXPY
 
 
 ## Authors
