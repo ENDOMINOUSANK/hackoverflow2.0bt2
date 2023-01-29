@@ -5,6 +5,9 @@
 # HackOverflow2.0BT2
 
 This is a submission made by Ankit Sneh,Abhigyan Bhardwaj, Mayank Chourasia for the topic of crop guidance and farmers friend- (biotech) for the  HackOverFlow-2.0  hackathon.
+'''2.Crop Guidance and Farmers Friend - (BioTech)
+The needs of contemporary agriculture, which demands high-yield, high-quality, and efficient production, cannot be met by conventional agricultural practices. Furthermore, farmers face the main challenge of how to adapt to changing customer preferences. It is critical to modernize existing processes and use data acquired over time to determine the best potential farming practices that should be implemented. Develop a solution that uses the potential of AI to address this problem
+'''
 
 
 ## How AI Can Help Farmers?
