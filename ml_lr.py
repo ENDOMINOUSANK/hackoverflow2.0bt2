@@ -1,8 +1,7 @@
-'''Geopolitics
-Land degradation affects 3.2 billion people and costs the global economy around 10% of its GDP annually. Despite pledges from nations to restore 350 million hectares
-of degraded land, effective execution is hindered by land disputes. A scalable solution is needed to address this issue, as more than 3 million people are impacted by
-land conflicts in India alone. Using AI and socio-economic data, it is possible to identify and assess the underlying causes of these conflicts and suggest realistic 
-solutions. Furthermore, it is crucial to understand how these issues can be forecasted in the future and how to reduce their economic impact.
+'''2.Crop Guidance and Farmers Friend - (BioTech)
+The needs of contemporary agriculture, which demands high-yield, high-quality, and efficient production, cannot be met by conventional agricultural practices.
+Furthermore, farmers face the main challenge of how to adapt to changing customer preferences. It is critical to modernize existing processes and use data acquired over
+time to determine the best potential farming practices that should be implemented. Develop a solution that uses the potential of AI to address this problem
 '''
 import numpy as np
 import pandas as pd
