@@ -4,7 +4,7 @@
 
 # HackOverflow2.0BT2
 
-This is a submission made by Ankit Sneh,Abhigyan Bhardwaj, Mayank Chaurasia for the topic of crop guidance and farmers friend- (biotech) for the  HackOverFlow-2.0  hackathon.
+This is a submission made by Ankit Sneh,Abhigyan Bhardwaj, Mayank Chourasia for the topic of crop guidance and farmers friend- (biotech) for the  HackOverFlow-2.0  hackathon.
 
 
 ## How AI Can Help Farmers?
