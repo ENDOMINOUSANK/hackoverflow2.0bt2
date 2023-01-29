@@ -14,6 +14,7 @@ y = train[target].copy()
 lr = LinearRegression()
 
 lr.fit(crop[["CLPAST", "CLIDLE", "GL",  "FL", "MISC",  "URBAN", "OTHERS"]], crop[["CLCROP"]])
-# print(lr.intercept_)
-# print(lr.coef_)
+# print(lr.intercept_) = [209.96203826]
+# print(lr.coef_) =[[ 1.65148294  0.32286076  0.09144891 -0.17310119 19.06623182  1.85730816 0.11783861]]
+
 
